@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@web/test-runner": "^0.18.1",
+    "@web/test-runner-browserstack": "^0.7.1"
+  },
+  "scripts": {
+    "test": "web-test-runner"
+  }
+}
